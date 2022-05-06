@@ -1,3 +1,3 @@
-# test_aux
+# Tarea 2 astroinformatica
 texto generico
 asdas
